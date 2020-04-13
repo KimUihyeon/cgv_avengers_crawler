@@ -15,4 +15,5 @@ import java.util.List;
 public class CrawlerSelectorChain extends ArrayList<CrawlerSelector> {
     private final CrawlerSelectorType selectorType;
 
+
 }
