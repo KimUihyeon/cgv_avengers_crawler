@@ -9,5 +9,6 @@ public class CrawlerApplication {
     public static void main(String[] arg){
         System.out.println("test");
         System.out.println("git Mapping Test");
+        System.out.println("git Mapping test");
     }
 }

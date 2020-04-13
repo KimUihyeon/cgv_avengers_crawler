@@ -11,5 +11,6 @@ public enum CrawlerSelectorType {
     NONE,
     CALSS_NAME,
     ID,
-    XPATH
+    XPATH,
+
 }
