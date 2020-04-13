@@ -13,7 +13,7 @@ public class WebDriverProperty {
     public static final String WEB_DRIVER_SAFARI_ID = "webdriver.chrome.driver";
     public static final String WEB_DRIVER_IE_ID = "webdriver.chrome.driver";
 
-    private static final String WEB_DRIVER_MAC = "D:/selenium/chromedriver_win32/chromedriver.exe";
+    private static final String WEB_DRIVER_MAC = "/Users/kuh/Desktop/cgv_avengers_crawler/chromeDriver_mac/chromedriver";
     private static final String WEB_DRIVER_WINDOW = "D:/selenium/chromedriver_win32/chromedriver.exe";
     private static final String WEB_DRIVER_LINUX = "D:/selenium/chromedriver_win32/chromedriver.exe";
 

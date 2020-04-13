@@ -25,8 +25,9 @@ public class SeleniumWebDriverFactory {
 
             ChromeDriver driver = new ChromeDriver();
 //            driver.manage().timeouts().pageLoadTimeout(2000, TimeUnit.MILLISECONDS);
-//            return driver;
-            return new ChromeDriver();
+            driver.manage().timeouts().implicitlyWait(1500, TimeUnit.MILLISECONDS);
+            return driver;
+            //return new ChromeDriver();
         }
 
         public WebDriver fireFoxDriver(){
@@ -53,13 +54,6 @@ public class SeleniumWebDriverFactory {
 
             return new InternetExplorerDriver();
         }
-
-    }
-
-    public static void createChromeDriver() {
-    }
-
-    public static void createFireFoxDriver() {
 
     }
 }

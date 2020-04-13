@@ -13,11 +13,10 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
-
-    compileOnly 'org.projectlombok:lombok:1.18.12'
-    implementation 'org.projectlombok:lombok'
-
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '2.41.0'
 
+    compileOnly 'org.projectlombok:lombok:1.18.12'
+    implementation 'org.projectlombok:lombok:1.18.12'
+    annotationProcessor 'org.projectlombok:lombok:1.18.12'
 
 }
