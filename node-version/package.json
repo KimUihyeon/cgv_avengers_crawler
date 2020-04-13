@@ -1,0 +1,27 @@
+{
+  "name": "cgv_avengers_crawler",
+  "version": "1.0.0",
+  "description": "> CGV 어벤져스 앤드게임 크롤러💖",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimUihyeon/cgv_avengers_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimUihyeon/cgv_avengers_crawler/issues"
+  },
+  "homepage": "https://github.com/KimUihyeon/cgv_avengers_crawler#readme"
+}
