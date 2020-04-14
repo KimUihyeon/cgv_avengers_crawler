@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kuh.crawler.selenium.simple.Sample" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-14T09:08:43" hostname="kuhui-MacBookPro.local" time="8.646">
+  <properties/>
+  <testcase name="cgv_sample" classname="com.kuh.crawler.selenium.simple.Sample" time="8.646"/>
+  <system-out><![CDATA[http://www.cgv.co.kr/movies/
+-------------------
+엽문4-더 파이널
+예매율4.3% 95%
+2020.04.01 개봉
+영화 찜하기 869
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+1917
+예매율3.9% 96%
+2020.02.19 개봉
+영화 찜하기 8,075
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+주디
+예매율2.4% 95%
+2020.03.25 개봉
+영화 찜하기 2,961
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+그시절우리가좋아했던소녀
+예매율2.1% 97%
+2020.04.09 재개봉
+영화 찜하기 1,444
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+나는 내일, 어제의 너와 만난다
+예매율2.1% 92%
+2020.04.09 재개봉
+영화 찜하기 253
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+어벤져스
+예매율1.8% 97%
+2012.04.26 개봉
+영화 찜하기 121
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+사랑이 뭘까
+예매율1.7% 90%
+2020.04.09 개봉
+영화 찜하기 377
+명이 선택
+예매
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+캣츠
+뮤지컬, 드라마
+2019.12.24 개봉
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+카운트다운
+호러, 스릴러
+2019.12.12 개봉
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+영화로운 나날
+로맨스, 환타지, 드라마, 멜로
+2019.12.12 개봉
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+러브 앳
+로맨스, 코미디, 멜로
+2019.11.27 개봉
+-------------------
+http://www.cgv.co.kr/movies/
+-------------------
+월성
+다큐멘터리
+2019.12.12 개봉
+-------------------
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 22511
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1586855326.830][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.014][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.117][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.218][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.323][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.426][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.530][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.634][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.736][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855327.938][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855328.794][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855328.995][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.110][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.212][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.380][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.640][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.743][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.862][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855329.964][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.066][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.240][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.343][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.445][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.591][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.692][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.795][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855330.898][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855331.007][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855331.110][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855331.214][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855331.316][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586855331.419][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
